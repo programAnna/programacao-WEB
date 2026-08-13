@@ -1,1 +1,30 @@
-a
+1 - o que e o angular e quais as suas vantagens ?
+É um framework front-end do Google de código aberto, cuja função principal é para construir aplicações web dinâmicas, modernas e focadas no padrão SPA (Single Page Application), utilizando a linguagem TypeScript.
+Entre suas principais vantagens, podemos destacar: 
+- Ecossistema Completo: Traz ferramentas nativas para roteamento, formulários, requisições HTTP e gerenciamento de estado, dispensando bibliotecas externas para funções básicas.
+- Arquitetura Baseada em Componentes: Divide a interface em blocos isolados, reutilizáveis e fáceis de manter.
+Uso de TypeScript: Oferece tipagem estática e recursos avançados de orientação a objetos, o que reduz erros durante o desenvolvimento.
+- Padronização de Código: Diferentes equipes conseguem manter o mesmo padrão de organização de pastas e escrita.
+- Injeção de Dependência: Desacopla componentes e serviços, melhorando a testabilidade e a escalabilidade do software.
+- Alta Escalabilidade: Perfeito para aplicações corporativas de grande porte (como sistemas bancários e grandes portais) que exigem forte controle de arquitetura.
+
+2 - explique as diferenças entre o node js e o npm?
+Node é um webserver que usa javascript, é um dos mais populares e está vinculado aos frameworks atuais, muito utilizado também em APIs. 
+NPM é um software que gerencia pacotes e usamos para trabalhar e conjunto com o node js
+
+3 - explique passo a passo a criação de um novo projeto em angular e executar o mesmo?
+1º: Instalar o o Node.js versão LTS
+2º: Verificar no terminal (powersheel ou no vs code): node -v e npm -v​
+4º: Instalar o angular, executando no terminal: npm install -g @angular/cli​
+5º: Validar com o comando: ng version​
+6º: Para criar um novo projeto no VS Code, criar e/ou escolher uma pasta para o novo projeto
+7º: No terminal do VS Code, executar: ng new nome-do-projeto 
+o que vai gerar a estrutura inicial de pastas e arquivos
+8º: O terminal perguntará se deseja ativar o roteamento (Routing) e qual formato de folha de estilos prefere (CSS, SCSS, etc.)
+9º: Entrar na pasta: usar o comando cd nome-do-projeto para navegar até o diretório criado
+10º: Executar o projeto: o comando ng serve inicia o servidor de desenvolvimento local
+
+4 - o que e um componente dentro do angular, explique como criar um?
+Os componentes contêm o código, o layout HTML e as informações de estilo CSS que fornecem a função e a aparência de um elemento no aplicativo. Um componente pode ser uma página ou uma parte de uma página (ex: barra de busca). 
+Para criar um componente, usamos o código ng g c nome-do-componente
+E o programa vai criar uma pasta nova com os arquivos de HTML, CSS, TypeScript e o arquivo de teste.
