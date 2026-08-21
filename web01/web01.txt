@@ -1,0 +1,33 @@
+1 - como podemos definir uma aplicação web?
+Segundo a AWS, uma aplicação Web é um software que é executado em um navegador da Web. Para trocar informações e prestar serviços remotamente, as empresas usam aplicações Web para se conectar com os clientes de forma conveniente e segura. Os recursos mais comuns do site, como carrinhos de compras, pesquisa e filtragem de produtos, mensagens instantâneas e feeds de notícias de mídia social, são aplicações Web no seu design.
+
+
+2 - detalhe as motivações na construção de uma aplicação web?
+- Acessibilidade: As aplicações Web podem ser acessadas de todos os navegadores da Web e em vários dispositivos pessoais e empresariais.  
+
+- Desenvolvimento eficiente: O processo de desenvolvimento de aplicações Web é relativamente simples e econômico para as empresas, já que equipes pequenas podem atingir ciclos de desenvolvimento curtos, tornando as aplicações Web um método eficiente e acessível de criar programas de computador. Além disso, como a mesma versão funciona em todos os navegadores e dispositivos modernos, não é necessário criar várias iterações diferentes para várias plataformas.
+
+- Simplicidade para o usuário: Os usuários não precisam baixar as aplicações Web, facilitando o acesso e eliminando a necessidade de manutenção do usuário final e capacidade do disco rígido. As aplicações Web recebem automaticamente atualizações de software e segurança, o que significa que elas estão sempre atualizadas e correm menos riscos de sofrer violações de segurança. 
+
+- Escalabilidade: As empresas que usam aplicações Web podem adicionar usuários conforme necessário, sem infraestrutura adicional ou hardware caro. Além disso, a grande maioria dos dados das aplicações Web é armazenada na nuvem, o que significa que sua empresa não precisará investir em capacidade de armazenamento adicional para executá-las.
+
+
+3 - quais as principais diferenças entre as gerações da web?
+- Web 1.0: Proposta pelo físico e cientista da computação Tim Berners-Lee em 1989, a primeira geração da web baseava-se em hiperlinks e era utilizada para, basicamente, exibir conteúdo estático com um design semelhante ao de páginas impressas. Vídeos eram raros.
+A comunicação era de uma só via, o que significa que os internautas não podiam criar conteúdo, apenas consumir o que estava disponível. As exceções a essa regra estavam nos envios de e-mail via formulários de cadastro e afins. Isso limitava as ferramentas de marketing e dificultava a interação entre empresas e consumidores.
+
+- Web 2.0: A chegada da segunda versão da web revolucionou a experiência dos usuários, sendo distinta de tudo que já tinha sido visto antes. Nela era possível ir além das páginas estáticas que imprimiam conteúdo na tela, já que os sites passaram a oferecer novas ferramentas de marketing  para interação. Isso permitiu o surgimento de estratégias mais eficientes sobre como fazer marketing de uma empresa, criando um ambiente digital mais dinâmico
+Nessa era, a produção de conteúdo pelos internautas ganhou espaço por meio da possibilidade de inserção de comentários em páginas de blogs e se tornou o centro da experiência web com a chegada das redes sociais.
+Outros aspectos que se destacaram na experiência de navegação da Web 2.0 incluem a popularização da tecnologia Ajax — utilizada na manipulação de mapas pela Google — e o uso mais amplo dos estilos em CSS, que permitiu a criação de páginas mais bonitas e com layout mais complexo.
+
+- Web 3.0: Também conhecida como Web3, a terceira geração da internet explorou muito mais do que as ferramentas de marketing propiciadas pela W3C e normalmente é mencionada em temas relacionados à blockchain, tokens não-fungíveis (os NFTs) e descentralização.
+A Web 3.0 nasce dos processos de transformação digital e baseia-se no uso de máquinas para melhorar a eficiência de atividades antes realizadas manualmente pelo usuário.
+A melhoria da eficiência dessas tarefas acontece graças ao uso de tecnologias de automação e machine learning, que também estão na lista de novidades da terceira versão da Web e ajudam, inclusive, a melhorar o desempenho de serviços da própria internet. A integração entre inteligência artificial e marketing começa a se desenhar através dos primeiros recursos de automação.
+
+- Web 4.0: Com base nas tendências atuais, é possível prever que a Web 4.0 será fortemente impulsionada pela inteligência artificial no marketing, aprendizado de máquina e tecnologias voltadas à experiência do usuário. Empresas que buscam potencializar sua estratégia comercial podem utilizar ferramentas como o Sales Hub, que permite integrar automação, personalização e inteligência de dados para otimizar a jornada de compra e aumentar as conversões.
+Além disso, a quarta geração da web se baseia na hiperconectividade, possibilitando maior interação entre indivíduos e ferramentas de marketing personalizadas. O Service Hub, da HubSpot, é um exemplo de solução que utiliza  machine learning e IA para melhorar a experiência do cliente, proporcionando atendimento automatizado, suporte omnichannel e personalização em tempo real.
+
+
+4 - O que e servidor de aplicação e quais as suas principais funcionalidades?
+Um servidor de aplicação, também conhecido como servidor de aplicativo ou servidor web de aplicação, é um tipo de servidor que hospeda softwares utilizados para aplicações de negócios.
+Os servidores de aplicação desempenham papel essencial no desenvolvimento de aplicações, conectando a interface do usuário a informações críticas armazenadas em bancos de dados backend. A maioria das aplicações de alto desempenho depende de servidores de app para executar a lógica da aplicação e melhorar a eficiência e a gestão.
