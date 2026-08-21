@@ -1,0 +1,29 @@
+<h1><span style="color: red;">Contato</span></h1>
+<p><i>Seja bem-vindo, preencha o <b>formulário</b> abaixo para:</i></p>
+<ul>
+    <li>Dúvidas</li>
+    <li>Sugestões</li>
+    <li>Críticas</li>
+    <li>Orçamentos</li>
+</ul>
+<p>Caso queira ver nossos produtos, clique <a href="produtos.html">aqui</a></p>
+<form>
+    nome: <input type="text" id="txtNome" placeholder="digite seu nome completo" required><br>
+    email: <input type="email" id="txtEmail" placeholder="digite seu melhor e-mail" required><br>
+    telefone: <input type="text" id="telefone" placeholder="digite seu telefone" 
+    pattern="\([0-9]{2}\) [0-9]{4,5}-[0-9]{4}" required><br>
+    Assunto:
+        <select id="assunto" required>
+            <option value="">Selecione um assunto</option>
+            <option>Dúvidas</option>
+            <option>Sugestões</option>
+            <option>Críticas</option>
+            <option>Orçamentos</option>
+        </select><br>
+    Deseja receber uma cópia deste e-mail?:
+        <input type="radio" id="opSim" name="tipo">Sim
+        <input type="radio" id="opNão" name="tipo">Não<br>
+    Mensagem:<textarea id="mg" rows="5" cols="30" placeholder="digite sua mensagem" required></textarea><br>
+    
+    <button>Enviar </button>
+</form>
